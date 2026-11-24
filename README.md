@@ -18,6 +18,12 @@ An unofficial native PC port of the original Xbox version of Burnout (European r
 - Xbox, PlayStation and Switch controllers, with hot plugging and rumble.
 - F10 shows the frame rate. The game runs at up to 60 frames a second.
 
+## Known limitations
+
+1. In 16:9 and 21:9 the HUD stays in a centred 4:3 part. Its items still need to be moved to the sides of the screen.
+2. The game timer sometimes stops all of a sudden.
+3. Once the game finishes, the menu keeps getting clicked.
+
 ## System requirements
 
 - Windows 10 64-bit
